@@ -1,0 +1,14 @@
+ISim log file
+Running: C:\Users\LEON\Git\MIPSCPU\topsim_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/LEON/Git/MIPSCPU/topsim_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING in topsim.uut.dmem.inst at time                    0 ns: 
+Reading from out-of-range address. Max address in topsim.uut.dmem.inst is          63
+Finished circuit initialization process.
